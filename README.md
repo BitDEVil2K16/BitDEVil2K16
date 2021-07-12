@@ -1,4 +1,18 @@
 ### Hi there 👋
+##Willkommen hier auf meinem Github Profil
+
+Derzeit Arbeite ich an Verschiedenen Projekten zu dem aus der RP Szeene bekantesten gehört ``SektorRP``
+
+Desweiteren Entwickle ich eher Private Tools für Modding von GTA-V Singleplayer, So wie auch an Tools die es einem erleichtern für Roleplay Server Packete zu erstellen die Ready To Use sind ohne viel selbst zu Können Automation!
+
+Demnächst wird es hier ein paar mehr Infos geben. Und für den ein oder anderen eine einstiegshilfe in den Bereichen
+- Software
+- Consolen Anwendungen
+- Utils
+- Helper
+
+[BitDEVil2K16 Club Web 😄](https://bitdevil2k16.club)
+
 
 <!--
 **BitDEVil2K16/BitDEVil2K16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
