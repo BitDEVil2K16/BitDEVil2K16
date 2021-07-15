@@ -1,8 +1,8 @@
 ## Willkommen hier auf meinem Github Profil
 
-Derzeit Arbeite ich an Verschiedenen Projekten zu dem aus der RP Szeene bekantesten gehört ``SektorRP``
+Derzeit Arbeite ich an Verschiedenen Projekten, zu dem aus der RP Szene bekantesten gehört ``SektorRP`` aka ``Sektor-V RP``
 
-Desweiteren Entwickle ich eher Private Tools für Modding von GTA-V Singleplayer, So wie auch an Tools die es einem erleichtern für Roleplay Server Packete zu erstellen die Ready To Use sind ohne viel selbst zu Können Automation!
+Desweiteren Entwickle ich eher Private Tools für Modding von GTA-V Singleplayer, So wie auch an Tools die es einem erleichtern für Roleplay Server Pakete zu erstellen die Ready To Use sind ohne viel selbst zu Können #Automation!
 
 Demnächst wird es hier ein paar mehr Infos geben. Und für den ein oder anderen eine einstiegshilfe in den Bereichen
 - Software
