@@ -12,6 +12,9 @@ Demnächst wird es hier ein paar mehr Infos geben. Und für den ein oder anderen
 
 [BitDEVil2K16 Club Web 😄](https://bitdevil2k16.club)
 
+Oder zum **BitDEVil2K16 Network**
+
+[BitDEVil2K16 Network Web 😄](https://bitdevil2k16.net)
 
 <!--
 **BitDEVil2K16/BitDEVil2K16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
