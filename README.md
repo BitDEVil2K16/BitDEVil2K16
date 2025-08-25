@@ -24,7 +24,7 @@ Demnächst wird es hier ein paar mehr Infos geben. Und für den ein oder anderen
 
 ---------------------------------------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BitDEVil2K16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=BitDEVil2K16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![toplangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BitDEVil2K16&layout=compact&bg_color=000000&text_color=999000&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/anuraghazra/github-readme-stats))
 ---------------------------------------------------
