@@ -16,11 +16,10 @@ Demnächst wird es hier ein paar mehr Infos geben. Und für den ein oder anderen
 **BitDEVil2K16 Club**
 [BitDEVil2K16 Club Web 😄](https://bitdevil2k16.club)
 
-**BitDEVil2K16 Network**
-[BitDEVil2K16 Network Web 😄](https://bitdevil2k16.net)
+**BitDEVil2K16 Network** | DEPRECATED 
+[BitDEVil2K16 Network Web 😄](#)
 
-**BitDEVil Window**
-[Soon](#)
+**BitDEVil Window** | Does Not Public visible 
 
 ---------------------------------------------------
 
